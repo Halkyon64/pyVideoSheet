@@ -1,5 +1,9 @@
-# pyVideoSheet
+# pyVideoSheet (python 3 adaptation)
 Python video thumbnail contact sheet creator.
+
+This is fork of original *[repo](https://github.com/rorasa/pyVideoSheet)*. I made this adaptation to get pyVideoSheet working fine of python 3+.
+
+## Original description:
 
 pyVideoSheet is designed for efficiency and simplicity, allowing users to create video contact sheets rapidly.
 pyVideoSheet can be used as a standalong command-line application and as an importable package.
